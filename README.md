@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Fernando Aguiar, welcome to my profile!
 
-🎓 I am a Systems Analysis and Development student at FIAP and currently an IT intern at MRM McCann Worldgroup. I am constantly learning and striving to grow in the field of Information Technology.
+🎓I am a Systems Analysis and Development student with a great passion for technology and programming. I have experience in several areas of software development, with a focus on Full Stack and artificial intelligence, and I have dedicated myself to constantly expanding my knowledge, whether through the courses I have already completed or in practical projects I have carried out.
 
 
 
