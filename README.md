@@ -31,9 +31,6 @@
     [![My Skills](https://skillicons.dev/icons?i=aws,azure&perline=3)](https://skillicons.dev)
 
 ##
-### Job Experience:
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRMun7l-k_b6II0SivAMoIkQnX50MXfk-ug&s"/>](https://www.mrmbrasil.com.br/)
-
 
 
 ##
