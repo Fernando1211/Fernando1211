@@ -11,7 +11,7 @@
 
 - Programming Languages:
 
- [![My Skills](https://skillicons.dev/icons?i=react,vite,nextjs,dotnet,spring)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=react,vite,nextjs,dotnet,spring)](https://skillicons.dev)
 - Databases:
 
 
@@ -22,7 +22,7 @@
     [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
 - Tools and Technologies:
 
- [![My Skills](https://skillicons.dev/icons?i=java,javascript,python,ts,cs)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=java,javascript,python,ts,cs)](https://skillicons.dev)
 - Web Development:
   
     [![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket,vscode,visualstudio,idea,pycharm,figma,ps,postman)](https://skillicons.dev)
