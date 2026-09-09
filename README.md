@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Fernando Aguiar, welcome to my profile!
 
-🎓I am a Systems Analysis and Development student with a great passion for technology and programming. I have experience in several areas of software development, with a focus on Full Stack and artificial intelligence, and I have dedicated myself to constantly expanding my knowledge, whether through the courses I have already completed or in practical projects I have carried out.
+🎓I am a graduate in Systems Analysis and Development from FIAP and currently pursuing a degree in Data Science at FMU. I am passionate about technology, software development, data, and artificial intelligence, with experience in Full Stack development, APIs, databases, and practical projects involving different programming languages and frameworks. I am constantly expanding my knowledge through academic studies, courses, and hands-on projects, always seeking to develop efficient solutions, learn new technologies, and grow professionally in the technology field.
 
 
 
